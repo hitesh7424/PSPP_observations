@@ -1,0 +1,37 @@
+1(a) Electricity Bill Preparation 1
+1(b) Retail Shop Billing 4
+1(c) Sine Series 7
+1(d) Weight of a motor bike 9
+1(e) Finding weight of a steel bar 11
+1(f) Compute Electric current in 3 phaseAC circuit 13
+2(a) Exchange the values of two variables 15
+2(b) Circulate the values of n variables 17
+2(c) Finding distance between 2 points 20
+3(a) Number Series 22
+3(b) Number Pattern 24
+3(c) Number Pyramid 27
+4(a) Items present in a library using list 29
+4(b) Components of a car using tuple 31
+4(c) Materials required for construction of abuilding using tuple 34
+5(a) Languages stored in a set 36
+5(b) Components of an automobile usingset 38
+5(c) Elements of a civil structure 40
+6(a) Factorial of a number using function 43
+6(b) Finding the largest element in the list using function 45
+6(c) Finding the area of a shape using function 48
+7(a) Reverse a String 50
+7(b) Checking the string is Palindrome 52
+7(c) Counting characters in a String 54
+7(d) Replace characters in a String 56
+8(a) Program using pandas Dataframes 58
+8(b) Program using numpy 60
+8(c) Program using matplotlib 62
+8(d) Program using Scipy 65
+9(a) File Handling – Copy one file into another 67
+9(b) File Handling – Word count 69
+9(c) File Handling – Longest word in a file 72
+10(a) Exception Handling – Divide by zero error 75
+10(b) Exception Handling – Voters Age validity 77
+10(c) Exception Handling – Student mark validity 80
+11 Exploring pygame tool 83
+12 Bouncing Ball game 86
